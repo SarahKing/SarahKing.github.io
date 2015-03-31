@@ -1,6 +1,5 @@
-body {
+h1 {
 	background-color: grey;
-}
-
-h1 { color: red; }
+		color: red;
+	}
 p { color: blue; }
