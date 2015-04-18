@@ -1,2 +1,15 @@
 body { background-color : #F5FFFA;
 		color : #708090; }
+
+		#hero {
+  background-image: url("https://download.unsplash.com/photo-1428591501234-1ffcb0d6871f");
+  width: 70%;
+  /* margin-left: 15%; */
+  margin: 20px auto;
+  height: 300px;
+  /* margin: 0 auto; */
+  background-size: cover;
+  background-position: center;
+  overflow-y: scroll;
+  padding: 40px;
+}
