@@ -1,15 +1,63 @@
 body { background-color : #F5FFFA;
-		color : #708090; }
+		color : #FFFFFF; 
+		text-align: center;
+		ul-align: center;
+		font-family: Helvetica, sans-serif;}
+
+		h3{
+			font-weight: lighter;
+			font-size: 10px;
+			line-height: 24px;
+			letter-spacing: .1em;
+
+		}
+
+		h1{
+			font-weight: lighter;
+			font-size: 60px;
+			line-height: 24px;
+			letter-spacing: .1em;
+		}
+
+		h2{
+			font-weight: lighter;
+			font-size: 18px;
+			line-height: 4px;
+		}
+
+		hr{
+    		width:90%;
+		}
+
+		#slogan{	
+			text-align: left;
+			font-weight: lighter;
+			font-size: 12px;
+			font-style: italic;
+			line-height: 17px;
+			letter-spacing: .1em;
+			margin-left: 15%;
+			margin-right: 15%;
+
+		}
+
+		h4{
+			background-color : #000000;
+			font-weight: lighter;
+			font-size: 10px;
+			line-height: 24px;
+			letter-spacing: .1em;
+		}
 
 		#hero {
-  background-image: url(../images/tools.jpg);
-  width: 70%;
+  background-image: url(../images/tools_dark.jpg);
+  width: 90%;
   /* margin-left: 15%; */
-  margin: 20px auto;
-  height: 300px;
+  margin: 0px auto;
+  height: 500px;
   /* margin: 0 auto; */
   background-size: cover;
   background-position: center;
   overflow-y: scroll;
-  padding: 40px;
-}
+/*  padding: 40px;
+*/}
